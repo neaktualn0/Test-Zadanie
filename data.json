@@ -1,0 +1,19 @@
+{
+  "balance": "30000",
+  "operations": [
+    {
+      "id": "f84c8aca-c055-4413-9474-fc0f83dfb42c",
+      "date": "09-09-09",
+      "type": "gain",
+      "summ": "15000",
+      "description": "check"
+    },
+    {
+      "id": "730cbe5b-7028-444a-bd83-cdeb5d2fb356",
+      "date": "09-09-09",
+      "type": "gain",
+      "summ": "15000",
+      "description": "g"
+    }
+  ]
+}
