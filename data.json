@@ -1,19 +1,26 @@
 {
-  "balance": "30000",
+  "balance": 29970,
   "operations": [
     {
       "id": "f84c8aca-c055-4413-9474-fc0f83dfb42c",
       "date": "09-09-09",
       "type": "gain",
-      "summ": "15000",
+      "summ": 15000,
       "description": "check"
     },
     {
       "id": "730cbe5b-7028-444a-bd83-cdeb5d2fb356",
       "date": "09-09-09",
       "type": "gain",
-      "summ": "15000",
+      "summ": 15000,
       "description": "g"
+    },
+    {
+      "id": "bb29c5d6-69a4-40e5-8032-baf02c96b6d8",
+      "date": "10-10-10",
+      "type": "loss",
+      "summ": 30,
+      "description": "15000"
     }
   ]
 }
