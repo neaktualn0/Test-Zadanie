@@ -12,6 +12,9 @@ class OutputTesting(unittest.TestCase):
         res = start.output(1)
         self.assertEqual(type(res), str)
     
+    def test_add(self):
+        res = start.add('','','','','')
+        self.assertEqual(type(res), str)
 
 
         
